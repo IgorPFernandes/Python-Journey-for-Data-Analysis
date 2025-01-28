@@ -1,0 +1,1 @@
+del list2[len(list2)-1]
